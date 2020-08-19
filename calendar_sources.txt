@@ -28,7 +28,7 @@ https://calendar.google.com/calendar/ical/enr5h00q4phjqisrbn85duccnk%40group.cal
 https://calendar.google.com/calendar/ical/vsetcontact%40gmail.com/public/basic.ics
 
 # EPFL Virtual Innovation Seminar
-https://calendar.google.com/calendar/ical/ling.zhou.epfl%40gmail.com/public/basic.ics 
+https://calendar.google.com/calendar/ical/ling.zhou.epfl%40gmail.com/public/basic.ics
 
 # Louvain Economics of Digitization Online Seminar
 https://calendar.google.com/calendar/ical/louvainecond%40gmail.com/public/basic.ics
